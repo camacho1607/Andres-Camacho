@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CPU
+comment1.params=
+comment1.target=java.lang.Integer\ generarMovida()
+comment1.text=\r\n\ generaMovida\ lo\ que\ hace\ es\ que\ en\ caso\ de\ que\ el\ usuario\ este\ jugando\ solo\ genera\ un\ numero\ aleatorio\ del\ 1\ al\ 7\r\n
+numComments=2

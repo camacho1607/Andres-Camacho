@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Menu
+comment1.params=args
+comment1.target=void\ menu(java.lang.String[])
+comment2.params=opcion
+comment2.target=void\ setOpcion(int)
+comment3.params=
+comment3.target=java.lang.Integer\ getOpcion()
+numComments=4

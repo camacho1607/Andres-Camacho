@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Chequeos
+comment0.text=\r\n\ Esta\ clase\ esa\ la\ que\ se\ encarga\ de\ realizar\ los\ chequeos\ para\ verificar\ si\ hay\ 4\ fichas\ en\ linea\r\n\r\n\ @author\ Andres\ Camacho\r\n\ @version\ 11/10/2020\r\n
+comment1.params=fila\ columna
+comment1.target=java.lang.Integer\ chequeos(int,\ int)
+comment1.text=\r\n\ metodo\ principal\ de\ la\ clase\ que\ llama\ a\ los\ 3\ diferentes\ tipos\ de\ chequeos\r\n\ @param\ fila\ recibe\ como\ entrada\ el\ valor\ de\ la\ fila\ de\ la\ jugada\ mas\ reciente\r\n\ @param\ columna\ recibe\ como\ entrada\ el\ valor\ de\ la\ columna\ de\ la\ jugada\ mas\ reciente\r\n
+comment2.params=fila\ columna
+comment2.target=void\ checkHorz(int,\ int)
+comment2.text=\r\n\ checkHorz\ chequea\ la\ fila\ de\ la\ jugada\ mas\ reciente\ a\ la\ izquierda\ y\ derecha\ para\ verificar\ que\ exitsa\ un\ 4\ en\ linea\r\n
+comment3.params=fila\ columna
+comment3.target=void\ checkVert(int,\ int)
+comment3.text=\r\n\ checkVert\ es\ el\ metodo\ encargado\ de\ revisar\ por\ una\ victoria\ en\ vertical\ revisando\ las\ 3\ fichas\ debajo\ de\ la\ mas\ reciente\r\n
+comment4.params=fila\ columna
+comment4.target=void\ checkDiag(int,\ int)
+comment5.params=cuatroEnLinea
+comment5.target=void\ setCuatroEnLinea(boolean)
+comment6.params=
+comment6.target=java.lang.Boolean\ getCuatroEnLinea()
+numComments=7

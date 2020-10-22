@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Jugador
+comment1.params=
+comment1.target=java.lang.String\ ingresarJugador()
+comment1.text=\r\n\ el\ metodo\ ingresarJugador()\ lo\ que\ hace\ es\ utilizar\ JOptionPane\ para\ preguntarle\ a\ los\ posibles\ jugadores\ sus\ nombres\r\n
+comment2.params=
+comment2.target=java.lang.String\ generarJugador()
+comment2.text=\r\n\ generarJugador\ es\ el\ metodo\ que\ se\ invoca\ en\ caso\ de\ que\ el\ usuareio\ decida\ jugar\ contra\ un\ jugador\ virtual\r\n\ y\ este\ crea\ un\ numnero\ aleatorio\ para\ seleccionar\ de\ una\ pila\ de\ nombres\ predeterminados.\r\n
+numComments=3
